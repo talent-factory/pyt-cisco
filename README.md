@@ -70,6 +70,7 @@ Der Kurs umfasst **4 Module** mit je **4 Lektionen à 50 Minuten**:
 - ✅ Nur Browser und GitHub-Account erforderlich
 - ✅ Keine lokale Installation notwendig
 - ✅ Sofort einsatzbereit
+- ✅ Claude Code vorinstalliert
 
 ### Option 2: Lokale Installation
 
@@ -78,6 +79,14 @@ Der Kurs umfasst **4 Module** mit je **4 Lektionen à 50 Minuten**:
 - Git (neueste Version)
 
 📖 Detaillierte Installationsanleitungen: [docs/installation.md](docs/installation.md)
+
+### 🤖 KI-Unterstützung mit Claude Code
+
+Claude Code ist in allen Codespaces vorinstalliert und kann als KI-Assistent beim Programmieren helfen.
+
+📖 **Setup-Anleitung:** [docs/claude-code-setup.md](docs/claude-code-setup.md)
+
+**Wichtig:** Jeder Studierende benötigt einen eigenen (kostenpflichtigen) Anthropic API-Key. Die Anleitung erklärt die sichere Einrichtung und Isolation der Credentials.
 
 ## 📖 Modulaufbau
 

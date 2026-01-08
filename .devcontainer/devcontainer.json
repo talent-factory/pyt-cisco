@@ -2,7 +2,10 @@
   "name": "Python CISCO Kurs",
   "image": "mcr.microsoft.com/devcontainers/python:3.11",
   "features": {
-    "ghcr.io/devcontainers/features/git:1": {}
+    "ghcr.io/devcontainers/features/git:1": {},
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "lts"
+    }
   },
   "customizations": {
     "vscode": {
@@ -27,6 +30,6 @@
       }
     }
   },
-  "postCreateCommand": "curl -LsSf https://astral.sh/uv/install.sh | sh && export PATH=\"$HOME/.cargo/bin:$PATH\" && uv sync",
+  "postCreateCommand": "bash -c 'curl -LsSf https://astral.sh/uv/install.sh | sh && export PATH=\"$HOME/.cargo/bin:$PATH\" && uv sync && curl -fsSL https://claude.ai/install.sh | bash && echo \"Claude Code installed successfully! Run: claude --version\"'",
   "remoteUser": "vscode"
 }

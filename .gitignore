@@ -8,3 +8,43 @@ wheels/
 
 # Virtual environments
 .venv
+venv/
+env/
+
+# Environment variables & secrets
+.env
+.env.local
+.env.*.local
+*.env
+.envrc
+
+# API Keys & Credentials
+*_key.txt
+*_token.txt
+*_secret.txt
+credentials.json
+secrets.json
+
+# IDE & Editor
+.vscode/settings.json.local
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Logs
+*.log
