@@ -11,11 +11,10 @@ Vollständige Beispielprogramme für Modul 2.
 | `vergleiche.py` | Boolsche Werte | Vergleiche, Logische Operatoren |
 | `typkonvertierung.py` | Type Casting | int(), float(), str(), bool() |
 | `input_output.py` | Benutzereingaben | input(), print() |
-| `textanalyse.py` | Textverarbeitung | String-Methoden, Berechnungen |
-| `validator.py` | Eingabe-Validierung | Booleans, String-Prüfungen |
-| `quiz.py` | Interaktives Quiz | Alle Konzepte kombiniert |
-| `taschenrechner_v2.py` | Erweiterter Rechner | Input, Typkonvertierung |
-| `namensschild.py` | Personalisierte Ausgabe | F-Strings, Formatierung |
+| `textstatistik.py` | Textverarbeitung | String-Methoden, Berechnungen |
+| `email_validator.py` | E-Mail-Validierung | Booleans, String-Prüfungen |
+| `passwort_validator.py` | Passwort-Validierung | String-Methoden, Validierung |
+| `tabelle.py` | Tabellenformatierung | F-Strings, Formatierung |
 
 ## 🚀 Verwendung
 

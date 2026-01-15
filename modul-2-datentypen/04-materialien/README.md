@@ -4,16 +4,16 @@ Zusatzmaterialien und Referenzen für Modul 2.
 
 ## 📚 Übersicht
 
-1. [Handout: String-Methoden](./handout-string-methoden.md)
-2. [Cheatsheet: Operatoren](./cheatsheet-operatoren.md)
-3. [Typkonvertierung-Tabelle](./typkonvertierung-tabelle.md)
+1. [Handout: Datentypen](./handout-datentypen.md)
+2. [Cheatsheet: Strings](./cheatsheet-strings.md)
+3. [Cheatsheet: Formatierung](./cheatsheet-formatierung.md)
 4. [Häufige Fehler bei Strings](./haeufige-fehler.md)
 
 ## 💡 Verwendung
 
 - **Handout:** Zum Ausdrucken und Mitnehmen
-- **Cheatsheet:** Schnellreferenz während der Programmierung
-- **Tabelle:** Übersicht über Typkonvertierungen
+- **Cheatsheet Strings:** Schnellreferenz für String-Methoden
+- **Cheatsheet Formatierung:** Schnellreferenz für String-Formatierung
 - **Fehler:** Hilfe bei häufigen Problemen
 
 ## 📖 Externe Ressourcen
