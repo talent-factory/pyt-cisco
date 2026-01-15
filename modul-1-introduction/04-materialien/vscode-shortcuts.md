@@ -51,8 +51,7 @@ Wichtige Tastenkombinationen für effizientes Arbeiten.
 
 | Aktion | Windows/Linux | macOS |
 |--------|---------------|-------|
-| Terminal öffnen/schliessen | Ctrl+` | Cmd+` |
-| Neues Terminal | Ctrl+Shift+` | Cmd+Shift+` |
+| Terminal öffnen/schliessen | Ctrl+J` | Cmd+J` |
 
 ## ▶️ Code ausführen
 
