@@ -141,7 +141,7 @@ Jedes Modul folgt einer konsistenten Struktur:
 
 ```bash
 # Repository klonen
-git clone https://github.com/IHR-USERNAME/pyt-cisco.git
+git clone https://github.com/talent-factory/pyt-cisco.git
 cd pyt-cisco
 
 # uv installieren (falls noch nicht vorhanden)
@@ -156,6 +156,40 @@ uv sync
 # Jupyter starten (optional)
 uv run jupyter notebook
 ```
+
+### Repository aktualisieren
+
+Falls Änderungen am Kursmaterial vorgenommen wurden, können Sie diese wie folgt abrufen:
+
+```bash
+# Ins Repository-Verzeichnis wechseln
+cd pyt-cisco
+
+# Änderungen vom Server abrufen
+git pull
+```
+
+**Falls Sie auf einem eigenen Branch arbeiten:**
+
+Wenn Sie Ihre Übungen auf einem eigenen Branch bearbeiten, gehen Sie wie folgt vor:
+
+```bash
+# 1. Aktuellen Stand committen (falls nötig)
+git add .
+git commit -m "Meine Änderungen"
+
+# 2. Zum develop-Branch wechseln und aktualisieren
+git checkout develop
+git pull
+
+# 3. Zurück zu Ihrem Branch wechseln
+git checkout mein-branch
+
+# 4. Änderungen von develop in Ihren Branch übernehmen
+git merge develop
+```
+
+> 💡 **Tipp:** Falls beim Merge Konflikte auftreten, fragen Sie Ihren Kursleiter um Hilfe.
 
 ## 📊 Zeitaufwand
 
