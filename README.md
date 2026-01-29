@@ -20,7 +20,7 @@ Nach Abschluss des Kurses können Sie:
 
 Der Kurs umfasst **4 Module** mit je **4 Lektionen à 50 Minuten**:
 
-### [Modul 1: Introduction to Python and Computer Programming](modul-1-introduction/)
+### [Modul 1: Introduction to Python and Computer Programming](modul-1-introduction/README.md)
 
 **Was ist Programmieren? Erste Schritte mit Python**
 
@@ -29,7 +29,7 @@ Der Kurs umfasst **4 Module** mit je **4 Lektionen à 50 Minuten**:
 - Erste Programme schreiben
 - REPL, Jupyter und VS Code nutzen
 
-### [Modul 2: Data Types, Variables, Basic I/O Operations, Basic Operators](modul-2-datentypen/)
+### [Modul 2: Data Types, Variables, Basic I/O Operations, Basic Operators](modul-2-datentypen/README.md)
 
 **Mit Daten arbeiten**
 
@@ -38,7 +38,7 @@ Der Kurs umfasst **4 Module** mit je **4 Lektionen à 50 Minuten**:
 - Ein-/Ausgabe (input/print)
 - Interaktive Programme erstellen
 
-### [Modul 3: Boolean Values, Conditional Execution, Loops, Lists](modul-3-kontrollstrukturen/)
+### [Modul 3: Boolean Values, Conditional Execution, Loops, Lists](modul-3-kontrollstrukturen/README.md)
 
 **Programmfluss steuern**
 
@@ -47,7 +47,7 @@ Der Kurs umfasst **4 Module** mit je **4 Lektionen à 50 Minuten**:
 - Listen und List Processing
 - Logische und bitweise Operationen
 
-### [Modul 4: Functions, Tuples, Dictionaries, Exceptions](modul-4-funktionen-datenstrukturen/)
+### [Modul 4: Functions, Tuples, Dictionaries, Exceptions](modul-4-funktionen-datenstrukturen/README.md)
 
 **Code organisieren und wiederverwenden**
 
@@ -224,5 +224,5 @@ Bei Fragen oder Problemen:
 
 ---
 
-**Bereit für Ihre Python-Reise? Starten Sie mit [Modul 1](modul-1-introduction/)!**
+**Bereit für Ihre Python-Reise? Starten Sie mit [Modul 1](modul-1-introduction/README.md)**
 
