@@ -19,6 +19,7 @@ Vollständige Beispielprogramme für Modul 3.
 | `notensystem.py` | Punkte in Noten umwandeln | While, if-elif-else, Validierung |
 | `gerade_zahlen.py` | Gerade Zahlen filtern | For, if, Listen, Modulo |
 | `notenliste.py` | Notenstatistik berechnen | For, if, Listen, Statistik |
+| `pascal_dreieck.py` | Pascal'sches Dreieck | Verschachtelte Listen, Schleifen |
 
 ## 🚀 Verwendung
 
