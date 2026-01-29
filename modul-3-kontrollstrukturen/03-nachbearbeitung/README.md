@@ -1,6 +1,6 @@
 # Nachbearbeitung Modul 3
 
-**Zeitaufwand:** 4-6 Stunden
+**Zeitaufwand:** 5-7 Stunden
 
 ## 🎯 Ziel
 
@@ -13,7 +13,8 @@ Vertiefen Sie die Konzepte aus Modul 3 durch praktische Hausaufgaben.
 | 1 | Zahlenspiel | 2 Std | ⭐⭐ Mittel |
 | 2 | Einkaufsliste | 1.5 Std | ⭐⭐ Mittel |
 | 3 | Primzahlen-Finder | 2 Std | ⭐⭐⭐ Schwer |
-| 4 | Reflexion | 30 Min | ⭐ Einfach |
+| 4 | Pascal'sches Dreieck | 1.5 Std | ⭐⭐⭐ Schwer |
+| 5 | Reflexion | 30 Min | ⭐ Einfach |
 
 ## 📚 Aufgabenübersicht
 
@@ -40,15 +41,22 @@ Erstellen Sie ein Programm, das Primzahlen findet:
 - Alle Primzahlen bis N
 - Statistiken
 
-### [Aufgabe 4: Reflexion](./reflexion.md) (30 Min)
+### [Aufgabe 4: Pascal'sches Dreieck](./aufgabe-4-pascal-dreieck.md) (1.5 Std)
+
+Erstellen Sie das Pascal'sche Dreieck ohne Funktionen:
+- Berechnung basierend auf vorheriger Zeile
+- Formatierte, zentrierte Ausgabe
+- Verschachtelte Listen verwenden
+
+### [Aufgabe 5: Reflexion](./reflexion.md) (30 Min)
 
 Reflektieren Sie Ihren Lernfortschritt.
 
 ## ✅ Abgabe
 
-**Mindestanforderung:** 2 von 3 Aufgaben + Reflexion
+**Mindestanforderung:** 2 von 4 Aufgaben + Reflexion
 
-**Empfohlen:** Alle 3 Aufgaben für maximalen Lerneffekt
+**Empfohlen:** Alle 4 Aufgaben für maximalen Lerneffekt
 
 ## 💡 Tipps
 
