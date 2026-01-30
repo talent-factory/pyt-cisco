@@ -26,6 +26,7 @@ credentials.json
 secrets.json
 
 # IDE & Editor
+.claude/settings.local.json
 .vscode/settings.json.local
 .idea/
 *.swp
